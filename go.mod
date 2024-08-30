@@ -3,7 +3,7 @@ module github.com/onjen/renovate-minimal-reproduction-template
 go 1.22.6
 
 require (
-	github.com/julienschmidt/httprouter v1.2.0
+	github.com/julienschmidt/httprouter v1.3.0
 	gocloud.dev v0.37.0
 )
 
