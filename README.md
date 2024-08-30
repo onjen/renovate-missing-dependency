@@ -8,7 +8,9 @@ The repository has 2 direct dependencies which are both left intentionally on an
 * `github.com/julienschmidt/httprouter v1.2.0` (current version v1.3.0)
 * `gocloud.dev v0.37.0` (current version v0.39.0)
 
+
 :x: Renovate fails to detect the direct dependency `gocloud.dev` and therefore doesn't create a Pull Request to update it.
+
 :white_check_mark: It successfully detects the direct dependency to `github.com/julienschmidt/httprouter v1.2.0` and also creates a pull request to update it.
 
 ## Expected behavior
