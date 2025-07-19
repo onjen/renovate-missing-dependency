@@ -4,7 +4,7 @@ go 1.22.6
 
 require (
 	github.com/julienschmidt/httprouter v1.2.0
-	gocloud.dev v0.39.0
+	gocloud.dev v0.43.0
 )
 
 require (
